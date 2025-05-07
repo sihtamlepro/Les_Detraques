@@ -1,7 +1,7 @@
 body {
   background-color: #1f2023;
   color: #000000;
-  font-family: Arial, sans-serif;
+  font-family: cursive, sans-serif;
   border: 2px solid #808080;
   border-radius: 10px;
   min-height: 100vh;
@@ -26,6 +26,7 @@ div {
 h1 {
   text-align: center;
   color: #cfcecd;
+  font-family: cursive, sans-serif;
 }
 
 p {
@@ -34,6 +35,7 @@ p {
   color: #cfcecd;
   margin: auto;
   padding: 10px;
+  font-family: cursive, sans-serif;
 }
 
 details {
@@ -43,6 +45,7 @@ details {
   margin-left: 100px;
   margin-bottom: 20px;
   margin-right: 20px;
+  font-family: cursive, sans-serif;
 }
 
 footer {
@@ -51,11 +54,13 @@ footer {
   margin-top: 20px;
   margin-left: 100px;
   padding-bottom: 20px;
+  font-family: cursive, sans-serif;
 }
 
 header {
   text-align: center;
   margin: 20px;
+  font-family: cursive, sans-serif;
 }
 
 a:hover {
@@ -66,6 +71,7 @@ a:hover {
 a {
   color: #cfcecd;
   text-decoration: none;
+  font-family: cursive, sans-serif;
 }
 
 img {
@@ -81,6 +87,7 @@ img {
   position: fixed;
   background-color: #414349;
   width: 100%;
+  font-family: cursive, sans-serif;
 }
 
 .credit a:hover {
