@@ -97,3 +97,8 @@ img {
 .banniere:hover {
   background-color: #1f2023;
 }
+
+div#clock{
+  width: 500px;
+  margin: auto;
+}
